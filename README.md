@@ -8,58 +8,58 @@
 
 # 技术博客 #
 1. 酷壳  
-网站 : [CoolShell.cn](CoolShell.cn)  
+网站 : [CoolShell.cn](http://CoolShell.cn)  
 Rss地址 : http://coolshell.cn/feed
 
 1. 老赵点滴 - 追求编程之美  
-网站 : [http://blog.zhaojie.me/](http://blog.zhaojie.me/)  
+网站 : [blog.zhaojie.me](http://blog.zhaojie.me/)  
 Rss地址 : http://blog.zhaojie.me/rss
 
 1. 阮一峰的网络日志  
-网站 : [http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)  
+网站 : [ruanyifeng.com/blog](http://www.ruanyifeng.com/blog/)  
 Rss地址 : http://www.ruanyifeng.com/blog/atom.xml
 
 1. 四火的唠叨  
-网站 :   [www.raychase.net](http://)  
+网站 :   [raychase.net](http://www.raychase.net)  
 Rss地址 : http://www.raychase.net/feed 
 
 1. 云风的 BLOG  
-网站 : [blog.codingnow.com](http://)    
+网站 : [blog.codingnow.com](http://blog.codingnow.com)    
 Rss地址 : http://blog.codingnow.com/atom.xml
 
 1. 运维与架构  
-网站 : [www.nginx.cn](http://)  
+网站 : [nginx.cn](http://www.nginx.cn)  
 Rss地址 : http://www.nginx.cn/feed
 
 1. ImportNew  
-网站 : [www.importnew.com](http://)   
+网站 : [importnew.com](http://www.importnew.com)   
 Rss地址 : http://www.importnew.com/feed
 
 1. Styling Android  
-网站 : [http://blog.stylingandroid.com/](http://)  
+网站 : [blog.stylingandroid.com](http://blog.stylingandroid.com)  
 Rss地址 : http://feeds.feedburner.com/StylingAndroid
 
 1. Trinea  
-网站 : [http://www.trinea.cn/](http://)  
+网站 : [trinea.cn](http://www.trinea.cn)  
 Rss地址 : http://feed.feedsky.com/trinea
 
 1. 破船之家  
-网站 : [beyondvincent.com](http://)  
+网站 : [beyondvincent.com](http://www.beyondvincent.com)  
 Rss地址 : http://beyondvincent.com/atom.xml
 
 
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
-网站 : [macshuo.com](http://)  
+网站 : [macshuo.com](http://www.macshuo.com)  
 Rss地址 : http://macshuo.com/?feed=rss2
 
 1. 少数派 - 数字生活传道者  
-网站 : [sspai.com](http://)  
+网站 : [sspai.com](http://www.sspai.com)  
 Rss地址 : http://sspai.com/feed
 
 ***
 #本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
-网站 : [www.grackertalk.com](http://www.GrackerTalk.com)  
+网站 : [grackertalk.com](http://www.GrackerTalk.com)  
 Rss地址 : http://www.grackertalk.com/?feed=rss2
