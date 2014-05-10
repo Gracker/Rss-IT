@@ -16,46 +16,46 @@ Rss地址 : http://coolshell.cn/feed
 Rss地址 : http://blog.zhaojie.me/rss
 
 1. 阮一峰的网络日志  
-网站 :   
+网站 : [http://www.ruanyifeng.com/blog/](http://www.ruanyifeng.com/blog/)  
 Rss地址 : http://www.ruanyifeng.com/blog/atom.xml
 
 1. 四火的唠叨  
-网站 :   
+网站 :   [www.raychase.net](http://)  
 Rss地址 : http://www.raychase.net/feed 
 
 1. 云风的 BLOG  
-网站 :   
+网站 : [blog.codingnow.com](http://)    
 Rss地址 : http://blog.codingnow.com/atom.xml
 
 1. 运维与架构  
-网站 :   
+网站 : [www.nginx.cn](http://)  
 Rss地址 : http://www.nginx.cn/feed
 
 1. ImportNew  
-网站 :   
+网站 : [www.importnew.com](http://)   
 Rss地址 : http://www.importnew.com/feed
 
 1. Styling Android  
-网站 :   
+网站 : [http://blog.stylingandroid.com/](http://)  
 Rss地址 : http://feeds.feedburner.com/StylingAndroid
 
 1. Trinea  
-网站 :   
+网站 : [http://www.trinea.cn/](http://)  
 Rss地址 : http://feed.feedsky.com/trinea
 
 1. 破船之家  
-网站 :   
+网站 : [beyondvincent.com](http://)  
 Rss地址 : http://beyondvincent.com/atom.xml
 
 
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
-网站 :   
+网站 : [macshuo.com](http://)  
 Rss地址 : http://macshuo.com/?feed=rss2
 
 1. 少数派 - 数字生活传道者  
-网站 :  
+网站 : [sspai.com](http://)  
 Rss地址 : http://sspai.com/feed
 
 ***
