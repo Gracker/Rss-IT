@@ -58,6 +58,17 @@ Rss地址 : http://macshuo.com/?feed=rss2
 网站 : [sspai.com](http://www.sspai.com)  
 Rss地址 : http://sspai.com/feed
 
+1. Linux中国  
+网站 : [linux.cn/](http://linux.cn/)   
+全站RSS ： http://linux.cn/rss.xml  
+技术RSS ： http://linux.cn/rss-tech.xml  
+新闻RSS ： http://linux.cn/rss-news.xml  
+评论RSS ： http://linux.cn/rss-talk.xml  
+分享RSS ： http://linux.cn/rss-share.xml  
+
+
+
+
 ***
 #本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
