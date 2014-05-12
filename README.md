@@ -47,6 +47,15 @@ Rss地址 : http://feed.feedsky.com/trinea
 网站 : [beyondvincent.com](http://www.beyondvincent.com)  
 Rss地址 : http://beyondvincent.com/atom.xml
 
+1. 老罗的Android开发之旅  
+网站 : [blog.csdn.net/luoshengyang](http://blog.csdn.net/luoshengyang)  
+Rss地址 : http://blog.csdn.net/luoshengyang/rss/list
+
+1. 代码家  
+网站 : [blog.daimajia.com](http://blog.daimajia.com/)  
+Rss地址 : null
+
+
 
 ***
 # 非技术博客 #
