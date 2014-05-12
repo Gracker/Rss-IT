@@ -53,7 +53,7 @@ Rss地址 : http://blog.csdn.net/luoshengyang/rss/list
 
 1. 代码家  
 网站 : [blog.daimajia.com](http://blog.daimajia.com/)  
-Rss地址 : null
+Rss地址 : http://blog.daimajia.com/feed/
 
 
 
