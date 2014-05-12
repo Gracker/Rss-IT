@@ -59,6 +59,10 @@ Rss地址 : http://blog.daimajia.com/feed/
 网站 : [fookwood.com](http://www.fookwood.com)  
 Rss地址 : www.fookwood.com/feeding
 
+1. Android Notice  
+网站 : [androidniceties.tumblr.com/](http://androidniceties.tumblr.com/)   
+Rss地址 : http://androidniceties.tumblr.com/rss 
+ 
 
 
 ***
