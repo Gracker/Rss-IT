@@ -63,6 +63,10 @@ Rss地址 : www.fookwood.com/feeding
 网站 : [androidniceties.tumblr.com/](http://androidniceties.tumblr.com/)   
 Rss地址 : http://androidniceties.tumblr.com/rss 
  
+1. sage42  
+网站 : [sage42.org](http://www.sage42.org/)  
+Rss地址 : http://www.sage42.org/feed/
+
 
 
 ***
