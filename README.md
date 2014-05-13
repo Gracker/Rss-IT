@@ -87,11 +87,11 @@ Rss地址 : http://sspai.com/feed
 评论RSS ： http://linux.cn/rss-talk.xml  
 分享RSS ： http://linux.cn/rss-share.xml  
 
-1.  谷奥  
+1.  谷奥 :喜欢Google的必备。质量很高。  
 网站 : [guao.hk](http://www.guao.hk)  
 Rss : http://www.guao.hk/feed
 
-1.  苹果fans  
+1.  苹果fans: 每天一篇真正有用的苹果教程或新闻  
 网站 : [mac52ipod.cn](http://www.mac52ipod.cn/index.php)   
 Rss地址 : http://feed.feedsky.com/applefan
 
