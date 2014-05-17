@@ -99,4 +99,4 @@ Rss地址 : http://feed.feedsky.com/applefan
 #本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
 网站 : [grackertalk.com](http://www.GrackerTalk.com)  
-Rss地址 : http://www.grackertalk.com/?feed=rss2
+Rss地址 : http://www.grackertalk.com/feeding
