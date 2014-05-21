@@ -67,6 +67,14 @@ Rss地址 : http://androidniceties.tumblr.com/rss
 网站 : [sage42.org](http://www.sage42.org/)  
 Rss地址 : http://www.sage42.org/feed/
 
+1. danlew -- Android小技巧  
+网站 : [blog.danlew.net](http://blog.danlew.net)  
+Rss地址 : http://blog.danlew.net/rss/
+
+1. Job伯乐在线-Android频道  
+网站 : [blog.jobbole.com/](http://blog.jobbole.com/)  
+Rss地址 : http://blog.jobbole.com/category/android/feed/
+
 
 
 ***
