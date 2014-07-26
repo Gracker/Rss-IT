@@ -79,6 +79,14 @@ Rss地址 : http://blog.jobbole.com/category/android/feed/
 网站 : [android-arsenal.com/](http://android-arsenal.com)  
 Rss地址 : http://android-arsenal.com/rss.xml
 
+1. Innost的专栏  
+网站 :[blog.csdn.net/innost/](http://blog.csdn.net/innost)   
+Rss地址 : http://blog.csdn.net/innost/rss/list
+
+1. StormZhang  
+网站 : [stormzhang.github.io/](http://stormzhang.github.io/)   
+Rss地址 : 待补充
+
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
