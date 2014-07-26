@@ -105,6 +105,9 @@ Rss : http://www.guao.hk/feed
 网站 : [mac52ipod.cn](http://www.mac52ipod.cn/index.php)   
 Rss地址 : http://feed.feedsky.com/applefan
 
+1.Android开发论坛
+http://www.apkbus.com/forum.php
+http://www.eoeandroid.com/forum.php
 ***
 #本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
