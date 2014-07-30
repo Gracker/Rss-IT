@@ -87,6 +87,11 @@ Rss地址 : http://blog.csdn.net/innost/rss/list
 网站 : [stormzhang.github.io/](http://stormzhang.github.io/)   
 Rss地址 : 待补充
 
+1. 码农日报  
+网站 : [daily.manong.io//](http://daily.manong.io//)   
+Rss地址 : http://daily.manong.io/feed
+
+
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
