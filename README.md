@@ -91,6 +91,9 @@ Rss地址 : 待补充
 网站 : [daily.manong.io//](http://daily.manong.io//)   
 Rss地址 : http://daily.manong.io/feed
 
+1. WKLKEN PYTHON  
+网站 : [www.wklken.me](http://www.wklken.me)   
+Rss地址 : http://www.wklken.me/feed.xml
 
 ***
 # 非技术博客 #
