@@ -117,6 +117,10 @@ Rss地址 : http://sspai.com/feed
 网站 : [guao.hk](http://www.guao.hk)  
 Rss : http://www.guao.hk/feed
 
+1.  V2EX = way to explore :V2EX 是一个关于分享和探索的地方    
+网站 : [v2ex.com/](http://www.v2ex.com/)  
+Rss : http://www.v2ex.com/index.xml
+
 1.  苹果fans: 每天一篇真正有用的苹果教程或新闻  
 网站 : [mac52ipod.cn](http://www.mac52ipod.cn/index.php)   
 Rss地址 : http://feed.feedsky.com/applefan
