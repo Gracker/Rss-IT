@@ -95,6 +95,10 @@ Rss地址 : http://daily.manong.io/feed
 网站 : [www.wklken.me](http://www.wklken.me)   
 Rss地址 : http://www.wklken.me/feed.xml
 
+1. Hellsoft  
+网站 ： [hellsoft.se/](http://www.hellsoft.se/)  
+Rss地址 ： http://www.hellsoft.se/feed/
+
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
