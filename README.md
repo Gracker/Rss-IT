@@ -99,6 +99,11 @@ Rss地址 : http://www.wklken.me/feed.xml
 网站 ： [hellsoft.se/](http://www.hellsoft.se/)  
 Rss地址 ： http://www.hellsoft.se/feed/
 
+1. 编程狂人  
+网站 ： [tuicool.com/mags](http://www.tuicool.com/mags)  
+Rss地址 ： http://feed.feedsky.com/programming_madman
+
+
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
