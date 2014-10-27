@@ -103,6 +103,10 @@ Rss地址 ： http://www.hellsoft.se/feed/
 网站 ： [tuicool.com/mags](http://www.tuicool.com/mags)  
 Rss地址 ： http://feed.feedsky.com/programming_madman
 
+1. 云在千锋  
+网站 ： [blog.chengyunfeng.com](http://blog.chengyunfeng.com/)  
+Rss地址 ： http://blog.chengyunfeng.com/?feed=rss2
+
 
 ***
 # 非技术博客 #
