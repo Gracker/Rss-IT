@@ -107,6 +107,9 @@ Rss地址 ： http://feed.feedsky.com/programming_madman
 网站 ： [blog.chengyunfeng.com](http://blog.chengyunfeng.com/)  
 Rss地址 ： http://blog.chengyunfeng.com/?feed=rss2
 
+1. Chris Banes   
+网站 ： [https://chris.banes.me/](https://chris.banes.me)  
+Rss地址 ： 待补充
 
 ***
 # 非技术博客 #
