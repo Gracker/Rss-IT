@@ -109,7 +109,7 @@ Rss地址 ： http://blog.chengyunfeng.com/?feed=rss2
 
 1. Chris Banes   
 网站 ： [https://chris.banes.me/](https://chris.banes.me)  
-Rss地址 ： 待补充
+Rss地址 ： https://chris.banes.me/rss/
 
 ***
 # 非技术博客 #
