@@ -80,7 +80,7 @@ Rss地址 : http://blog.jobbole.com/category/android/feed/
 Rss地址 : http://android-arsenal.com/rss.xml
 
 1. Innost的专栏  
-网站 :[blog.csdn.net/innost/](http://blog.csdn.net/innost)   
+网站 : [blog.csdn.net/innost/](http://blog.csdn.net/innost)   
 Rss地址 : http://blog.csdn.net/innost/rss/list
 
 1. StormZhang  
@@ -92,7 +92,7 @@ Rss地址 : 待补充
 Rss地址 : http://daily.manong.io/feed
 
 1. WKLKEN PYTHON  
-网站 : [www.wklken.me](http://www.wklken.me)   
+网站 : [wklken.me](http://www.wklken.me)   
 Rss地址 : http://www.wklken.me/feed.xml
 
 1. Hellsoft  
@@ -108,9 +108,12 @@ Rss地址 ： http://feed.feedsky.com/programming_madman
 Rss地址 ： http://blog.chengyunfeng.com/?feed=rss2
 
 1. Chris Banes   
-网站 ： [https://chris.banes.me/](https://chris.banes.me)  
+网站 ： [chris.banes.me/](https://chris.banes.me)  
 Rss地址 ： https://chris.banes.me/rss/
 
+1. Android Weekly  
+网站 ： [androidweekly.net/](http://androidweekly.net/)  
+Rss地址 ： http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
