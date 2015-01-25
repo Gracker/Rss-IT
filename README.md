@@ -114,6 +114,10 @@ Rss地址 ： https://chris.banes.me/rss/
 1. Android Weekly  
 网站 ： [androidweekly.net/](http://androidweekly.net/)  
 Rss地址 ： http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19
+
+1. Android Developer Weekly
+网站 :  [http://androidweekly.cn/](http://androidweekly.cn/)
+RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
 ***
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
