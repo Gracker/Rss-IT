@@ -123,7 +123,7 @@ RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
 1. MacTalk-池建强的随想录  
 网站 : [macshuo.com](http://www.macshuo.com)  
 Rss地址 : http://macshuo.com/?feed=rss2
-
+I
 1. 少数派 - 数字生活传道者  
 网站 : [sspai.com](http://www.sspai.com)  
 Rss地址 : http://sspai.com/feed
