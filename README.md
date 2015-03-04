@@ -115,10 +115,12 @@ Rss地址 ： https://chris.banes.me/rss/
 网站 ： [androidweekly.net/](http://androidweekly.net/)  
 Rss地址 ： http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19
 
-1. Android Developer Weekly
-网站 :  [http://androidweekly.cn/](http://androidweekly.cn/)
+1. Android Developer Weekly  
+网站 :  [http://androidweekly.cn/](http://androidweekly.cn/)  
 RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
+
 ***
+
 # 非技术博客 #
 1. MacTalk-池建强的随想录  
 网站 : [macshuo.com](http://www.macshuo.com)  
@@ -149,7 +151,13 @@ Rss : http://www.v2ex.com/index.xml
 Rss地址 : http://feed.feedsky.com/applefan
 
 ***
-#本人的博客
+
+# 本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
-网站 : [grackertalk.com](http://www.GrackerTalk.com)  
-Rss地址 : http://www.grackertalk.com/feeding
+网站 : [AndroidPerformance.com](http://www.AndroidPerformance.com)  
+Rss地址 : http://AndroidPerformance.com/feeding
+
+***
+
+# 文件备份
+[Rss-IT.opml](Rss-IT.opml)文件是一个备份文件，你可以将这个备份文件直接导入你的RSS阅读器中即可。（v1.0 ：2015-3-4）
