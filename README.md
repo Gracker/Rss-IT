@@ -11,10 +11,6 @@
 网站 : [CoolShell.cn](http://CoolShell.cn)  
 Rss地址 : http://coolshell.cn/feed
 
-1. 老赵点滴 - 追求编程之美  
-网站 : [blog.zhaojie.me](http://blog.zhaojie.me/)  
-Rss地址 : http://blog.zhaojie.me/rss
-
 1. 阮一峰的网络日志  
 网站 : [ruanyifeng.com/blog](http://www.ruanyifeng.com/blog/)  
 Rss地址 : http://www.ruanyifeng.com/blog/atom.xml
@@ -87,10 +83,6 @@ Rss地址 : http://blog.csdn.net/innost/rss/list
 网站 : [stormzhang.github.io/](http://stormzhang.github.io/)   
 Rss地址 : 待补充
 
-1. 码农日报  
-网站 : [daily.manong.io//](http://daily.manong.io//)   
-Rss地址 : http://daily.manong.io/feed
-
 1. WKLKEN PYTHON  
 网站 : [wklken.me](http://www.wklken.me)   
 Rss地址 : http://www.wklken.me/feed.xml
@@ -98,10 +90,6 @@ Rss地址 : http://www.wklken.me/feed.xml
 1. Hellsoft  
 网站 ： [hellsoft.se/](http://www.hellsoft.se/)  
 Rss地址 ： http://www.hellsoft.se/feed/
-
-1. 编程狂人  
-网站 ： [tuicool.com/mags](http://www.tuicool.com/mags)  
-Rss地址 ： http://feed.feedsky.com/programming_madman
 
 1. 云在千锋  
 网站 ： [blog.chengyunfeng.com](http://blog.chengyunfeng.com/)  
@@ -145,10 +133,6 @@ Rss : http://www.guao.hk/feed
 1.  V2EX = way to explore :V2EX 是一个关于分享和探索的地方    
 网站 : [v2ex.com/](http://www.v2ex.com/)  
 Rss : http://www.v2ex.com/index.xml
-
-1.  苹果fans: 每天一篇真正有用的苹果教程或新闻  
-网站 : [mac52ipod.cn](http://www.mac52ipod.cn/index.php)   
-Rss地址 : http://feed.feedsky.com/applefan
 
 ***
 
