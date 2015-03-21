@@ -143,7 +143,7 @@ Rss : http://www.v2ex.com/index.xml
 # 本人的博客
 1. 但行好事 莫问前程 -- GrackerTalk  
 网站 : [AndroidPerformance.com](http://www.AndroidPerformance.com)  
-Rss地址 : http://AndroidPerformance.com/feeding
+Rss地址 : http://www.androidperformance.com/feed
 
 ***
 
