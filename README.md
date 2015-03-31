@@ -111,6 +111,11 @@ RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
 网站 ： [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)
 RSS地： http://www.androiddesignpatterns.com/feed.atom
 
+1. inovex  
+网站 : [https://blog.inovex.de/](https://blog.inovex.de/)  
+Rss地址 ： https://blog.inovex.de/feed/
+
+
 ***
 
 # 非技术博客 #
