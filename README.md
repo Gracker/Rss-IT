@@ -116,6 +116,13 @@ RSS地： http://www.androiddesignpatterns.com/feed.atom
 Rss地址 ： https://blog.inovex.de/feed/
 
 
+1. Android Developers Blog  
+网站 ：[android-developers.blogspot.com](android-developers.blogspot.com)  
+Rss地址 : http://feeds.feedburner.com/blogspot/hsDu
+
+
+
+
 ***
 
 # 非技术博客 #
