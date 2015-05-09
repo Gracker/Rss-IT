@@ -120,8 +120,13 @@ Rss地址 ： https://blog.inovex.de/feed/
 网站 ：[android-developers.blogspot.com](android-developers.blogspot.com)  
 Rss地址 : http://feeds.feedburner.com/blogspot/hsDu
 
+1. Raizlabs  
+网站 ：[raizlabs.com/dev/](http://www.raizlabs.com/dev/)  
+RSS地址 : http://www.raizlabs.com/dev/feed/  
 
-
+1. Squareup  
+网站 ： [https://corner.squareup.com/](https://corner.squareup.com/)   
+RSS地址：http://feeds.feedburner.com/corner-squareup-com  
 
 ***
 
