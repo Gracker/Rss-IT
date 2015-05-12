@@ -1,6 +1,6 @@
 # Rss-IT人 #
 
-这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善!Mac客户端已经换成Reader2了.感觉棒棒哒!  
+这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善!Mac客户端已经换成Reeder2了.感觉棒棒哒!  
 
 目前的数量还不多,希望大家能多推荐些,但是最好是那种质量比较高的Blog,每个人的时间都有限,把最好的时光浪费在美好的事物上.
 
@@ -127,6 +127,10 @@ RSS地址 : http://www.raizlabs.com/dev/feed/
 1. Squareup  
 网站 ： [https://corner.squareup.com/](https://corner.squareup.com/)   
 RSS地址：http://feeds.feedburner.com/corner-squareup-com  
+
+1. trickyandroid  
+网站：[trickyandroid.com/](http://trickyandroid.com/)  
+RSS地址 ：http://trickyandroid.com/rss/  
 
 ***
 
