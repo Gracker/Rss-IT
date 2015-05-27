@@ -132,7 +132,7 @@ RSS地址：http://feeds.feedburner.com/corner-squareup-com
 网站：[trickyandroid.com/](http://trickyandroid.com/)  
 RSS地址 ：http://trickyandroid.com/rss/  
 
-1. PHP鸟哥
+1. 鸟哥 惠新宸
 网站： [http://www.laruence.com/](http://www.laruence.com/)  
 RSS地址: http://www.laruence.com/feed/  
 
