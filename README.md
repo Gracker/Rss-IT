@@ -104,15 +104,15 @@ Rss地址 ： https://chris.banes.me/rss/
 Rss地址 ： http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19
 
 1. Android Developer Weekly  
-网站 :  [http://androidweekly.cn/](http://androidweekly.cn/)  
+网站 :  [androidweekly.cn/](http://androidweekly.cn/)  
 RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
 
 1. Android Design Patterns  
-网站 ： [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
+网站 ： [androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
 RSS地： http://www.androiddesignpatterns.com/feed.atom
 
 1. inovex  
-网站 : [https://blog.inovex.de/](https://blog.inovex.de/)  
+网站 : [blog.inovex.de/](https://blog.inovex.de/)  
 Rss地址 ： https://blog.inovex.de/feed/
 
 
@@ -125,7 +125,7 @@ Rss地址 : http://feeds.feedburner.com/blogspot/hsDu
 RSS地址 : http://www.raizlabs.com/dev/feed/  
 
 1. Squareup  
-网站 ： [https://corner.squareup.com/](https://corner.squareup.com/)   
+网站 ： [corner.squareup.com/](https://corner.squareup.com/)   
 RSS地址：http://feeds.feedburner.com/corner-squareup-com  
 
 1. trickyandroid  
@@ -133,12 +133,16 @@ RSS地址：http://feeds.feedburner.com/corner-squareup-com
 RSS地址 ：http://trickyandroid.com/rss/  
 
 1. 鸟哥 惠新宸
-网站： [http://www.laruence.com/](http://www.laruence.com/)  
+网站： [laruence.com/](http://www.laruence.com/)  
 RSS地址: http://www.laruence.com/feed/  
 
 1. Fenng
-网站：[http://dbanotes.net/](http://dbanotes.net/)  
+网站：[dbanotes.net/](http://dbanotes.net/)  
 RSS地址：http://dbanotes.net/feed/  
+
+1. likaiwen  
+网站：[likaiwen.cn](http://likaiwen.cn)  
+RSS地址：http://likaiwen.cn/feed
 ***
 
 # 非技术博客 #
