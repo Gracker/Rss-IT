@@ -117,7 +117,6 @@ RSS地： http://www.androiddesignpatterns.com/feed.atom
 网站 : [blog.inovex.de/](https://blog.inovex.de/)  
 Rss地址 ： https://blog.inovex.de/feed/
 
-
 1. Android Developers Blog  
 网站 ：[android-developers.blogspot.com](android-developers.blogspot.com)  
 Rss地址 : http://feeds.feedburner.com/blogspot/hsDu
@@ -145,6 +144,36 @@ RSS地址：http://dbanotes.net/feed/
 1. likaiwen  
 网站：[likaiwen.cn](http://likaiwen.cn)  
 RSS地址：http://likaiwen.cn/feed
+
+1. 廖祜秋liaohuqiu_秋百万  
+英文网站：[liaohuqiu.net/](http://www.liaohuqiu.net/)  
+中文网站：[liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/)
+RSS地址：http://www.liaohuqiu.net/atom.xml
+
+1. 郭霖的专栏  
+网站：[blog.csdn.net/guolin_blog](http://blog.csdn.net/guolin_blog)  
+RSS地址：http://blog.csdn.net/guolin_blog/rss/list
+
+1. 胡凯  
+网站：[hukai.me](http://hukai.me/)  
+RSS地址：http://hukai.me/atom.xml
+
+1. 技术小黑屋  
+网站：[droidyue.com/](http://droidyue.com/)  
+RSS地址：http://droidyue.com/atom.xml
+
+1. 张明云  
+网站：[hukai.me](http://zmywly8866.github.io/)  
+RSS地址：http://zmywly8866.github.io/pages/atom.xml
+
+1. 大头鬼Bruce  
+网站：[blog.csdn.net/lzyzsd](http://blog.csdn.net/lzyzsd)  
+RSS地址：http://blog.csdn.net/lzyzsd/rss/list（暂时不可用）
+
+1. Jhuster的专栏  
+网站：[ticktick.blog.51cto.com/](http://ticktick.blog.51cto.com/)  
+RSS地址：http://ticktick.blog.51cto.com/rss.php?uid=823160
+
 ***
 
 # 非技术博客 #
