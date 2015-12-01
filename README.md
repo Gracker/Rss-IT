@@ -163,7 +163,7 @@ RSS地址：http://hukai.me/atom.xml
 RSS地址：http://droidyue.com/atom.xml
 
 1. 张明云  
-网站：[hukai.me](http://zmywly8866.github.io/)  
+网站：[zmywly8866.github.io/](http://zmywly8866.github.io/)  
 RSS地址：http://zmywly8866.github.io/pages/atom.xml
 
 1. 大头鬼Bruce  
