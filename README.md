@@ -107,7 +107,7 @@ Rss地址 ： http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&
 
 1. Android Developer Weekly  
 网站 :  [androidweekly.cn/](http://androidweekly.cn/)  
-RSS地址 ： http://androidweekly.cn/author/inferjay/rss/
+RSS地址 ： http://androidweekly.cn/rss/
 
 1. Android Design Patterns  
 网站 ： [androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
