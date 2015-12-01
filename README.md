@@ -147,7 +147,7 @@ RSS地址：http://likaiwen.cn/feed
 
 1. 廖祜秋liaohuqiu_秋百万  
 英文网站：[liaohuqiu.net/](http://www.liaohuqiu.net/)  
-中文网站：[liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/)
+中文网站：[liaohuqiu.net/cn/](http://www.liaohuqiu.net/cn/)  
 RSS地址：http://www.liaohuqiu.net/atom.xml
 
 1. 郭霖的专栏  
@@ -211,4 +211,4 @@ Rss地址 : http://androidperformance.com/atom.xml
 ***
 
 # 文件备份
-[Rss-IT.opml](Rss-IT.opml)文件是一个备份文件，你可以将这个备份文件直接导入你的RSS阅读器中即可。（v1.0 ：2015-3-4）
+[Rss-IT.opml](/opml/Rss-IT.opml)文件是一个备份文件，你可以将这个备份文件直接导入你的RSS阅读器中即可。（v2.0 ：2015-12-1）
