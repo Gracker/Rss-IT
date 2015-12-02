@@ -263,6 +263,8 @@
     网站：http://blog.csdn.net/lmj623565791
     
     RSS 地址：http://blog.csdn.net/lmj623565791/rss/list
+    
+43. ​
 
 ***
 
@@ -307,6 +309,14 @@
    网站 : [v2ex.com/](http://www.v2ex.com/)  
    
    Rss : http://www.v2ex.com/index.xml
+   
+6. Android Central
+   
+   网站：http://www.androidcentral.com
+   
+   RSS 地址：http://www.mobilenations.com/rss/mb.xml
+   
+   ​
 
 ***
 
