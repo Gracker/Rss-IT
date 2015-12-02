@@ -174,6 +174,10 @@ RSS地址：http://blog.csdn.net/lzyzsd/rss/list（暂时不可用）
 网站：[ticktick.blog.51cto.com/](http://ticktick.blog.51cto.com/)  
 RSS地址：http://ticktick.blog.51cto.com/rss.php?uid=823160
 
+1. kymjs张涛
+网站：[www.kymjs.com](http://www.kymjs.com/)  
+RSS地址：http://www.kymjs.com/feed.xml 
+
 ***
 
 # 非技术博客 #
