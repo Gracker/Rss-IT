@@ -262,13 +262,13 @@
     
     网站：http://blog.csdn.net/lmj623565791
     
-    RSS 地址：http://blog.csdn.net/lmj623565791/rss/list
+    RSS地址：http://blog.csdn.net/lmj623565791/rss/list
     
-43. ​
+43. kymjs张涛
 
-1. kymjs张涛
-网站：[www.kymjs.com](http://www.kymjs.com/)  
-RSS地址：http://www.kymjs.com/feed.xml 
+    网站：[www.kymjs.com](http://www.kymjs.com/)  
+    
+    RSS地址：http://www.kymjs.com/feed.xml 
 
 ***
 
@@ -279,8 +279,6 @@ RSS地址：http://www.kymjs.com/feed.xml
    网站 : [macshuo.com](http://www.macshuo.com)  
    
    Rss地址 : http://macshuo.com/?feed=rss2
-   
-   I
    
 2. 少数派 - 数字生活传道者  
    
@@ -319,8 +317,6 @@ RSS地址：http://www.kymjs.com/feed.xml
    网站：http://www.androidcentral.com
    
    RSS 地址：http://www.mobilenations.com/rss/mb.xml
-   
-   ​
 
 ***
 
