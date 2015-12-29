@@ -52,7 +52,7 @@
    
    Rss地址 : http://feeds.feedburner.com/StylingAndroid
    
-8. Trinea  
+8. Trinea(Rss暂时不可用，待修复，网页可以正常访问)  
    
    网站 : [trinea.cn](http://www.trinea.cn)  
    
@@ -485,3 +485,5 @@
 # 文件备份
 
 [Rss-IT.opml](/opml/Rss-IT.opml)文件是一个备份文件，你可以将这个备份文件直接导入你的RSS阅读器中即可。（v2.0 ：2015-12-1）
+
+
