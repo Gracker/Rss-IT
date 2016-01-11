@@ -120,9 +120,9 @@
     
 19. StormZhang  
     
-    网站 : [stormzhang.github.io/](http://stormzhang.github.io/)   
+    网站 : [stormzhang.com](http://stormzhang.com/)   
     
-    Rss地址 : 待补充
+    Rss地址 : http://stormzhang.com/atom.xml
     
 20. WKLKEN PYTHON  
     
