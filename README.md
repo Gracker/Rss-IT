@@ -427,6 +427,11 @@
     
     RSS 地址: [http://www.vmatianyu.cn/feed](http://www.vmatianyu.cn/feed)
 
+69. 朱罗锋-专注Android相关技术    
+
+    网站: [feeyan.cn/](http://www.feeyan.cn/)
+    
+    RSS 地址: [http://www.feeyan.cn/?feed=rss2](http://www.feeyan.cn/?feed=rss2)
 
 ***
 
