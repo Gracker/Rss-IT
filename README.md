@@ -56,7 +56,7 @@
    
    网站 : [trinea.cn](http://www.trinea.cn)  
    
-   Rss地址 : http://feed.feedsky.com/trinea
+   Rss地址 : http://www.trinea.cn/feed/
    
 9. 破船之家  
    
@@ -122,19 +122,13 @@
     
     网站 : [stormzhang.com](http://stormzhang.com/)   
     
-    Rss地址 : http://stormzhang.com/atom.xml
+    Rss地址 : （不可用）
     
 20. WKLKEN PYTHON  
     
     网站 : [wklken.me](http://www.wklken.me)   
     
     Rss地址 : http://www.wklken.me/feed.xml
-    
-21. Hellsoft  
-    
-    网站 ： [hellsoft.se/](http://www.hellsoft.se/)  
-    
-    Rss地址 ： http://www.hellsoft.se/feed/
     
 22. 云在千锋  
     
@@ -325,7 +319,7 @@
     
     RSS 地址: [http://blog.csdn.net/qibin0506/rss/list](http://blog.csdn.net/qibin0506/rss/list)
     
-53. Lusfold
+53. Lusfold （暂不可用）
     
     网站: [http://lusfold.com//](http://lusfold.com//)
     
@@ -351,29 +345,17 @@
     
     RSS 地址: [http://andrewliu.in/atom.xml](http://andrewliu.in/atom.xml)
     
-57. StackVoid
+57. StackVoid （暂不可用）
     
     网站: [http://stackvoid.com](http://stackvoid.com)
     
     RSS 地址: [http://stackvoid.com/feed/](http://stackvoid.com/feed/)
-    
-58. Styling Android
-    
-    网站: [https://blog.stylingandroid.com](https://blog.stylingandroid.com)
-    
-    RSS 地址: [http://feeds.feedburner.com/StylingAndroid](http://feeds.feedburner.com/StylingAndroid)
     
 59. The Cheese Factory's Blog (English)
     
     网站: [http://inthecheesefactory.com/blog/en](http://inthecheesefactory.com/blog/en)
     
     RSS 地址: [http://inthecheesefactory.com/blog/en/rss.xml](http://inthecheesefactory.com/blog/en/rss.xml)
-    
-60. Tricky Android
-    
-    网站: [http://trickyandroid.com/](http://trickyandroid.com/)
-    
-    RSS 地址: [http://trickyandroid.com/rss/](http://trickyandroid.com/rss/)
     
 61. Veaer
     
@@ -495,6 +477,10 @@
 
 # 文件备份
 
-[Rss-IT.opml](/opml/Rss-IT.opml)文件是一个备份文件，你可以将这个备份文件直接导入你的RSS阅读器中即可。（v2.0 ：2015-12-1）
+opml 文件文件夹里面存放的是rss的通用文件 opml ，你可以将这个备份文件直接导入你的RSS阅读器中即可。
+
+1. [Rss-IT-2015-12-1.opml](/opml/rss_it_2015_12_1.opml)
+
+2. [Rss-IT-2016-5-30.opml](/opml/rss_it_2016_5_30.opml)
 
 

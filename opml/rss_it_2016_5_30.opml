@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Subscriptions - RSS</title>
+	</head>
+	<body>
+		<outline htmlUrl="http://blog.csdn.net/aigestudio" title="AigeStudio" xmlUrl="http://blog.csdn.net/aigestudio/rss/list" type="rss" text="AigeStudio"/>
+		<outline htmlUrl="http://www.androidcentral.com/" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" xmlUrl="http://www.androidcentral.com/feed" type="rss" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers"/>
+		<outline htmlUrl="http://www.androiddesignpatterns.com/" title="Android Design Patterns" xmlUrl="http://www.androiddesignpatterns.com/feed.atom" type="rss" text="Android Design Patterns"/>
+		<outline htmlUrl="http://android-developers.blogspot.com/" title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" type="rss" text="Android Developers Blog"/>
+		<outline title="Android Niceties" xmlUrl="http://androidniceties.tumblr.com/rss" type="rss" text="Android Niceties"/>
+		<outline htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" title="Android Weekly Archive Feed" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" type="rss" text="Android Weekly Archive Feed"/>
+		<outline htmlUrl="http://blog.jobbole.com" title="Android – 文章 – 伯乐在线" xmlUrl="http://blog.jobbole.com/category/android/feed/" type="rss" text="Android – 文章 – 伯乐在线"/>
+		<outline htmlUrl="http://www.androidweekly.cn/" title="Android开发技术周报" xmlUrl="http://www.androidweekly.cn/rss/" type="rss" text="Android开发技术周报"/>
+		<outline htmlUrl="http://antonioleiva.com" title="Antonio Leiva" xmlUrl="http://antonioleiva.com/feed/" type="rss" text="Antonio Leiva"/>
+		<outline htmlUrl="http://blog.csdn.net/ace1985" title="ASCE1885" xmlUrl="http://blog.csdn.net/asce1885/rss/list" type="rss" text="ASCE1885"/>
+		<outline htmlUrl="http://www.baoyz.com/" title="Baoyz's Blog" xmlUrl="http://baoyz.com/rss.xml" type="rss" text="Baoyz's Blog"/>
+		<outline htmlUrl="http://blog.csdn.net/beyond0525" title="Beyond0525的专栏" xmlUrl="http://blog.csdn.net/beyond0525/rss/list" type="rss" text="Beyond0525的专栏"/>
+		<outline htmlUrl="http://chris.banes.me/" title="Chris Banes" xmlUrl="https://chris.banes.me/atom.xml" type="rss" text="Chris Banes"/>
+		<outline htmlUrl="http://blog.csdn.net/zpj779878443" title="coder-pig的猪栏" xmlUrl="http://blog.csdn.net/coder_pig/rss/list" type="rss" text="coder-pig的猪栏"/>
+		<outline htmlUrl="http://blog.danlew.net/" title="Dan Lew Codes" xmlUrl="http://blog.danlew.net/rss/" type="rss" text="Dan Lew Codes"/>
+		<outline htmlUrl="http://dbanotes.net" title="DBA Notes" xmlUrl="http://dbanotes.net/feed" type="rss" text="DBA Notes"/>
+		<outline htmlUrl="https://drakeet.me" title="Drakeet的个人博客" xmlUrl="https://drakeet.me/feed" type="rss" text="Drakeet的个人博客"/>
+		<outline htmlUrl="http://www.feeyan.cn" title="feeyan.cn" xmlUrl="http://www.feeyan.cn/?feed=rss2" type="rss" text="feeyan.cn"/>
+		<outline htmlUrl="http://www.fookwood.com" title="FOOKWOOD" xmlUrl="http://www.fookwood.com/feed" type="rss" text="FOOKWOOD"/>
+		<outline title="Hellsoft" xmlUrl="http://www.hellsoft.se/feed/" type="rss" text="Hellsoft"/>
+		<outline htmlUrl="http://blog.csdn.net/lmj623565791" title="Hongyang" xmlUrl="http://blog.csdn.net/lmj623565791/rss/list" type="rss" text="Hongyang"/>
+		<outline htmlUrl="http://www.importnew.com" title="ImportNew" xmlUrl="http://www.importnew.com/feed" type="rss" text="ImportNew"/>
+		<outline htmlUrl="http://blog.csdn.net/innost" title="Innost的专栏" xmlUrl="http://blog.csdn.net/innost/rss/list" type="rss" text="Innost的专栏"/>
+		<outline htmlUrl="https://blog.inovex.de" title="inovex-Blog" xmlUrl="https://blog.inovex.de/feed/" type="rss" text="inovex-Blog"/>
+		<outline htmlUrl="http://ticktick.blog.51cto.com" title="Jhuster的专栏-51CTO技术博客" xmlUrl="http://ticktick.blog.51cto.com/rss.php?uid=823160" type="rss" text="Jhuster的专栏-51CTO技术博客"/>
+		<outline htmlUrl="http://likaiwen.cn/" title="KevinLi" xmlUrl="http://likaiwen.cn/feed" type="rss" text="KevinLi"/>
+		<outline htmlUrl="http://www.vmatianyu.cn" title="Liter's Blog" xmlUrl="http://www.vmatianyu.cn/feed" type="rss" text="Liter's Blog"/>
+		<outline htmlUrl="http://blog.csdn.net/qibin0506" title="Loader's Blog" xmlUrl="http://blog.csdn.net/qibin0506/rss/list" type="rss" text="Loader's Blog"/>
+		<outline htmlUrl="http://macshuo.com" title="MacTalk-池建强的随想录" xmlUrl="http://macshuo.com/?feed=rss2" type="rss" text="MacTalk-池建强的随想录"/>
+		<outline htmlUrl="http://blog.csdn.net/xiaanming" title="Mobile Internet developer" xmlUrl="http://blog.csdn.net/xiaanming/rss/list" type="rss" text="Mobile Internet developer"/>
+		<outline htmlUrl="http://androidperformance.com/" title="Performance" xmlUrl="http://androidperformance.com/atom.xml" type="rss" text="Performance"/>
+		<outline htmlUrl="http://www.raizlabs.com/dev" title="RaizException – Raizlabs Developer Blog" xmlUrl="http://www.raizlabs.com/dev/feed/" type="rss" text="RaizException – Raizlabs Developer Blog"/>
+		<outline htmlUrl="http://andrewliu.in/" title="Snow Memory" xmlUrl="http://andrewliu.in/atom.xml" type="rss" text="Snow Memory"/>
+		<outline title="Styling Android" xmlUrl="http://feeds.feedburner.com/StylingAndroid" type="rss" text="Styling Android"/>
+		<outline htmlUrl="http://developer.apple.com/swift/blog/" title="Swift Blog - Apple Developer" xmlUrl="https://developer.apple.com/swift/blog/news.rss" type="rss" text="Swift Blog - Apple Developer"/>
+		<outline htmlUrl="http://android-arsenal.com/rss.xml" title="The Android Arsenal" xmlUrl="http://android-arsenal.com/rss.xml" type="rss" text="The Android Arsenal"/>
+		<outline htmlUrl="http://inthecheesefactory.com/blog/en" title="The Cheese Factory's Blog (English)" xmlUrl="http://inthecheesefactory.com/blog/en/rss.xml" type="rss" text="The Cheese Factory's Blog (English)"/>
+		<outline htmlUrl="http://corner.squareup.com" title="The Corner" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" type="rss" text="The Corner"/>
+		<outline htmlUrl="http://trickyandroid.com/" title="Tricky Android" xmlUrl="http://trickyandroid.com/rss/" type="rss" text="Tricky Android"/>
+		<outline htmlUrl="http://www.trinea.cn" title="Trinea" xmlUrl="http://www.trinea.cn/feed/" type="rss" text="Trinea"/>
+		<outline htmlUrl="http://veaer.com/" title="Veaer|王扒蒜" xmlUrl="http://veaer.com/atom.xml" type="rss" text="Veaer|王扒蒜"/>
+		<outline htmlUrl="http://waylenw.github.io/" title="WaylenWang" xmlUrl="http://waylenw.github.io/atom.xml" type="rss" text="WaylenWang"/>
+		<outline htmlUrl="http://www.wklken.me/" title="wklken's blog" xmlUrl="http://www.wklken.me/feed.xml" type="rss" text="wklken's blog"/>
+		<outline htmlUrl="http://liaohuqiu.net/" title="Yet Another Summer Rain" xmlUrl="http://www.liaohuqiu.net/atom.xml" type="rss" text="Yet Another Summer Rain"/>
+		<outline htmlUrl="http://blog.chengyunfeng.com" title="云在千峰" xmlUrl="http://blog.chengyunfeng.com/?feed=rss2" type="rss" text="云在千峰"/>
+		<outline htmlUrl="http://blog.codingnow.com/" title="云风的 BLOG" xmlUrl="http://blog.codingnow.com/atom.xml" type="rss" text="云风的 BLOG"/>
+		<outline htmlUrl="http://daimajia.com/" title="代码家" xmlUrl="http://blog.daimajia.com/rss/" type="rss" text="代码家"/>
+		<outline title="博客园_漫天尘沙" xmlUrl="http://feed.cnblogs.com/blog/u/162102/rss" type="rss" text="博客园_漫天尘沙"/>
+		<outline htmlUrl="http://www.raychase.net" title="四火的唠叨" xmlUrl="http://www.raychase.net/feed" type="rss" text="四火的唠叨"/>
+		<outline htmlUrl="http://blog.bihe0832.com" title="子勰的博客" xmlUrl="http://blog.bihe0832.com/pages/atom.xml" type="rss" text="子勰的博客"/>
+		<outline htmlUrl="http://www.devtf.cn" title="开发技术前线" xmlUrl="http://www.devtf.cn/?feed=rss2" type="rss" text="开发技术前线"/>
+		<outline htmlUrl="http://www.kymjs.com/" title="开源实验室" xmlUrl="http://www.kymjs.com/feed.xml" type="rss" text="开源实验室"/>
+		<outline htmlUrl="http://blog.csdn.net/xyz_lmn" title="张兴业的博客" xmlUrl="http://blog.csdn.net/xyz_lmn/rss/list" type="rss" text="张兴业的博客"/>
+		<outline htmlUrl="http://zmywly8866.github.io" title="张明云的博客" xmlUrl="http://zmywly8866.github.io/pages/atom.xml" type="rss" text="张明云的博客"/>
+		<outline htmlUrl="http://blog.csdn.net/u011133213" title="快乐de胖虎" xmlUrl="http://blog.csdn.net/u011133213/rss/list" type="rss" text="快乐de胖虎"/>
+		<outline htmlUrl="http://droidyue.com/" title="技术小黑屋" xmlUrl="http://droidyue.com/atom.xml" type="rss" text="技术小黑屋"/>
+		<outline htmlUrl="http://yanghui.name/" title="杨辉的个人博客" xmlUrl="http://yanghui.name/atom.xml" type="rss" text="杨辉的个人博客"/>
+		<outline htmlUrl="http://beyondvincent.com/" title="破船之家" xmlUrl="http://beyondvincent.com/atom.xml" type="rss" text="破船之家"/>
+		<outline htmlUrl="http://www.techug.com" title="程序师" xmlUrl="http://www.techug.com/feed" type="rss" text="程序师"/>
+		<outline htmlUrl="http://blog.csdn.net/luoshengyang" title="老罗的Android之旅" xmlUrl="http://blog.csdn.net/luoshengyang/rss/list" type="rss" text="老罗的Android之旅"/>
+		<outline htmlUrl="http://hukai.me/" title="胡凯" xmlUrl="http://hukai.me/atom.xml" type="rss" text="胡凯"/>
+		<outline htmlUrl="http://www.nginx.cn" title="运维与架构" xmlUrl="http://www.nginx.cn/feed" type="rss" text="运维与架构"/>
+		<outline htmlUrl="http://coolshell.cn" title="酷 壳 – CoolShell.cn" xmlUrl="http://coolshell.cn/feed" type="rss" text="酷 壳 – CoolShell.cn"/>
+		<outline htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" type="rss" text="阮一峰的网络日志"/>
+		<outline htmlUrl="http://www.laruence.com" title="风雪之隅" xmlUrl="http://www.laruence.com/feed" type="rss" text="风雪之隅"/>
+	</body>
+</opml>
