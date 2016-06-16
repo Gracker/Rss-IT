@@ -414,6 +414,12 @@
     网站: [feeyan.cn/](http://www.feeyan.cn/)
     
     RSS 地址: [http://www.feeyan.cn/?feed=rss2](http://www.feeyan.cn/?feed=rss2)
+    
+70. Qisen Tang - Coding And Living
+
+    网站: [http://www.woaitqs.cc/](http://www.woaitqs.cc/)
+    
+    RSS 地址: [http://www.woaitqs.cc/feed.xml](http://www.woaitqs.cc/feed.xml)
 
 ***
 
