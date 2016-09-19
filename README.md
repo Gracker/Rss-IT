@@ -421,6 +421,12 @@
     
     RSS 地址: [http://www.feeyan.cn/?feed=rss2](http://www.feeyan.cn/?feed=rss2)
 
+71. Jlog
+
+    网站: [race604.com/](http://www.race604.com/)
+    
+    RSS 地址: [http://www.race604.com/rss/](http://www.race604.com/rss/)
+
 
 
 ***
