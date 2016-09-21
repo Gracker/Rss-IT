@@ -266,140 +266,140 @@
     
 44. Android Central - Android Forums - News - Reviews - Help and Android Wallpapers
     
-    网站: [http://www.androidcentral.com/](http://www.androidcentral.com/)
+    网站: [www.androidcentral.com/](http://www.androidcentral.com/)
     
     RSS 地址: [http://www.androidcentral.com/feed](http://www.androidcentral.com/feed)
     
 45. Android Cool Posts
     
-    网站: [https://greenrobot.me](https://greenrobot.me)
+    网站: [greenrobot.me](https://greenrobot.me)
     
     RSS 地址: [https://greenrobot.me/feed/](https://greenrobot.me/feed/)
 
     
 46. Antonio Leiva
     
-    网站: [http://antonioleiva.com](http://antonioleiva.com)
+    网站: [antonioleiva.com](http://antonioleiva.com)
     
     RSS 地址: [http://antonioleiva.com/feed/](http://antonioleiva.com/feed/)
     
 47. ASCE1885
     
-    网站: [http://blog.csdn.net/ace1985](http://blog.csdn.net/ace1985)
+    网站: [blog.csdn.net/ace1985](http://blog.csdn.net/ace1985)
     
     RSS 地址: [http://blog.csdn.net/asce1885/rss/list](http://blog.csdn.net/asce1885/rss/list)
     
 48. Baoyz's Blog
     
-    网站: [http://www.baoyz.com/](http://www.baoyz.com/)
+    网站: [www.baoyz.com/](http://www.baoyz.com/)
     
     RSS 地址: [http://baoyz.com/rss.xml](http://baoyz.com/rss.xml)
     
 49. Beyond0525的专栏
     
-    网站: [http://blog.csdn.net/beyond0525](http://blog.csdn.net/beyond0525)
+    网站: [blog.csdn.net/beyond0525](http://blog.csdn.net/beyond0525)
     
     RSS 地址: [http://blog.csdn.net/beyond0525/rss/list](http://blog.csdn.net/beyond0525/rss/list)
    
 50. coder-pig的猪栏
     
-    网站: [http://blog.csdn.net/zpj779878443](http://blog.csdn.net/zpj779878443)
+    网站: [blog.csdn.net/zpj779878443](http://blog.csdn.net/zpj779878443)
     
     RSS 地址: [http://blog.csdn.net/coder_pig/rss/list](http://blog.csdn.net/coder_pig/rss/list)  
    
 51. Drakeet的个人博客
     
-    网站: [http://drakeet.me](http://drakeet.me)
+    网站: [drakeet.me](http://drakeet.me)
     
     RSS 地址: [http://drakeet.me/feed](http://drakeet.me/feed)
       
 52. Loader's Blog
     
-    网站: [http://blog.csdn.net/qibin0506](http://blog.csdn.net/qibin0506)
+    网站: [blog.csdn.net/qibin0506](http://blog.csdn.net/qibin0506)
     
     RSS 地址: [http://blog.csdn.net/qibin0506/rss/list](http://blog.csdn.net/qibin0506/rss/list)
     
 53. Lusfold （暂不可用）
     
-    网站: [http://lusfold.com//](http://lusfold.com//)
+    网站: [lusfold.com//](http://lusfold.com//)
     
     RSS 地址: [http://lusfold.com/atom.xml](http://lusfold.com/atom.xml)
     
 54. Mobile Internet developer
     
-    网站: [http://blog.csdn.net/xiaanming](http://blog.csdn.net/xiaanming)
+    网站: [blog.csdn.net/xiaanming](http://blog.csdn.net/xiaanming)
     
     RSS 地址: [http://blog.csdn.net/xiaanming/rss/list](http://blog.csdn.net/xiaanming/rss/list)
   
 
 55. Performance
     
-    网站: [http://androidperformance.com/](http://androidperformance.com/)
+    网站: [androidperformance.com/](http://androidperformance.com/)
     
     RSS 地址: [http://androidperformance.com/atom.xml](http://androidperformance.com/atom.xml)
  
     
 56. Snow Memory
     
-    网站: [http://andrewliu.in/](http://andrewliu.in/)
+    网站: [andrewliu.in/](http://andrewliu.in/)
     
     RSS 地址: [http://andrewliu.in/atom.xml](http://andrewliu.in/atom.xml)
     
 57. StackVoid （暂不可用）
     
-    网站: [http://stackvoid.com](http://stackvoid.com)
+    网站: [stackvoid.com](http://stackvoid.com)
     
     RSS 地址: [http://stackvoid.com/feed/](http://stackvoid.com/feed/)
     
 59. The Cheese Factory's Blog (English)
     
-    网站: [http://inthecheesefactory.com/blog/en](http://inthecheesefactory.com/blog/en)
+    网站: [inthecheesefactory.com/blog/en](http://inthecheesefactory.com/blog/en)
     
     RSS 地址: [http://inthecheesefactory.com/blog/en/rss.xml](http://inthecheesefactory.com/blog/en/rss.xml)
     
 61. Veaer
     
-    网站: [http://veaer.com/](http://veaer.com/)
+    网站: [veaer.com/](http://veaer.com/)
     
     RSS 地址: [http://veaer.com/atom.xml](http://veaer.com/atom.xml)
     
 62. Waylenw's BLog
     
-    网站: [http://waylenw.github.io/](http://waylenw.github.io/)
+    网站: [waylenw.github.io/](http://waylenw.github.io/)
     
     RSS 地址: [http://waylenw.github.io/atom.xml](http://waylenw.github.io/atom.xml)
  
     
 63. 子勰的博客
     
-    网站: [http://blog.bihe0832.com](http://blog.bihe0832.com)
+    网站: [blog.bihe0832.com](http://blog.bihe0832.com)
     
     RSS 地址: [http://blog.bihe0832.com/pages/atom.xml](http://blog.bihe0832.com/pages/atom.xml)
     
   
 64. 张兴业的博客
     
-    网站: [http://blog.csdn.net/xyz_lmn](http://blog.csdn.net/xyz_lmn)
+    网站: [blog.csdn.net/xyz_lmn](http://blog.csdn.net/xyz_lmn)
     
     RSS 地址: [http://blog.csdn.net/xyz_lmn/rss/list](http://blog.csdn.net/xyz_lmn/rss/list)
     
    
 65. 快乐de胖虎
     
-    网站: [http://blog.csdn.net/u011133213](http://blog.csdn.net/u011133213)
+    网站: [blog.csdn.net/u011133213](http://blog.csdn.net/u011133213)
     
     RSS 地址: [http://blog.csdn.net/u011133213/rss/list](http://blog.csdn.net/u011133213/rss/list)
         
 
 66. 杨辉的个人博客
     
-    网站: [http://yanghui.name/](http://yanghui.name/)
+    网站: [yanghui.name/](http://yanghui.name/)
     
     RSS 地址: [http://yanghui.name/atom.xml](http://yanghui.name/atom.xml)
 
 67. AigeStudio
     
-    网站: [http://blog.csdn.net/aigestudio](http://blog.csdn.net/aigestudio)
+    网站: [blog.csdn.net/aigestudio](http://blog.csdn.net/aigestudio)
     
     RSS 地址: [http://blog.csdn.net/aigestudio/rss/list](http://blog.csdn.net/aigestudio/rss/list)
 
@@ -427,7 +427,11 @@
     
     RSS 地址: [http://www.race604.com/rss/](http://www.race604.com/rss/)
 
+72. Weishu's Note
 
+    网站: [weishu.me/](http://weishu.me/)
+
+    RSS 地址: [http://weishu.me/atom.xml](http://weishu.me/atom.xml)
 
 ***
 
