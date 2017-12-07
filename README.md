@@ -432,6 +432,11 @@
     网站: [weishu.me/](http://weishu.me/)
 
     RSS 地址: [http://weishu.me/atom.xml](http://weishu.me/atom.xml)
+73. 秋水逸冰
+
+	网站：[teddysun.com/](https://teddysun.com/)
+
+	RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
 
 ***
 
