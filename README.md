@@ -433,6 +433,12 @@
 
     RSS 地址: [http://weishu.me/atom.xml](http://weishu.me/atom.xml)
 
+73. 王辉的博客 - 热情洋溢的程序员
+
+    网站: [hui-wang.info/](https://hui-wang.info/)
+
+    RSS 地址: [https://hui-wang.info/atom.xml](https://hui-wang.info/atom.xml)
+
 ***
 
 # 非技术博客
