@@ -437,6 +437,9 @@
 	网站：[teddysun.com/](https://teddysun.com/)
 
 	RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
+74.  吴钧泽博客
+	网站：[www.wujunze.com](https://www.wujunze.com)
+        RSS地址：[https://www.wujunze.com/feed](https://www.wujunze.com/feed)
 
 ***
 
