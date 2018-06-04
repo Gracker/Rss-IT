@@ -434,13 +434,68 @@
     RSS 地址: [http://weishu.me/atom.xml](http://weishu.me/atom.xml)
 73. 秋水逸冰
 
-	网站：[teddysun.com/](https://teddysun.com/)
+	  网站：[teddysun.com/](https://teddysun.com/)
 
-	RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
-74.  吴钧泽博客
-	网站：[www.wujunze.com](https://www.wujunze.com)
-        RSS地址：[https://www.wujunze.com/feed](https://www.wujunze.com/feed)
+	  RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
+74. 吴钧泽博客
+    
+    网站：[wujunze.com](https://www.wujunze.com)
+    
+    RSS地址：[https://www.wujunze.com/feed](https://www.wujunze.com/feed)
 
+75. Xing的技术博客
+
+    网站：[iluhcm.com/](http://iluhcm.com/)
+
+76. 任玉刚的技术博客
+
+    网站：[blog.csdn.net/singwhatiwanna](https://blog.csdn.net/singwhatiwanna)    
+    
+77. kymjs张涛的技术博客   
+
+    网站：[kymjs.com/](https://kymjs.com/)
+   
+78. gcssloop的技术博客   
+    
+    网站：[gcssloop.com/timeline](http://www.gcssloop.com/timeline)
+    
+79. Ailurus 的个人博客
+    
+    网站：[easydone.cn/archives/](http://www.easydone.cn/archives/)
+    
+80. drakeet的个人站点
+
+    网站：[drakeet.me/](https://drakeet.me/)    
+    
+81. Weishu的博客（understand-plugin-framework系列作者）    
+    
+    网站：[weishu.me/archives/](http://weishu.me/archives/)
+    
+82. Innost的CSDN专栏    
+
+    网站：[blog.csdn.net/innost](https://blog.csdn.net/innost)
+    
+83. 中二病也要开发 ANDROID
+
+    网站：[kaedea.com/](http://kaedea.com/)
+
+84. tangpj的个人站点
+    
+    网站：[tangpj.com/](http://tangpj.com/)
+    
+85. yydcdut的个人博客
+
+    网站：[yydcdut.com/](http://yydcdut.com/)    
+    
+86. Uncle Chen的个人博客
+
+    网站：[unclechen.github.io/](http://unclechen.github.io/) 
+ 
+87. Gityuan (Keep on going never give up)    
+
+    网站：[http://gityuan.com/](http://gityuan.com/)
+    
+    
 ***
 
 # 非技术博客
@@ -489,24 +544,27 @@
    
    RSS 地址：http://www.mobilenations.com/rss/mb.xml
 
+7. Android Weekly 中文版
+
+    网站：[androidweekly.io/](https://androidweekly.io/)
+
+8. Android Weekly 英文版
+
+    网站：[androidweekly.net/](https://androidweekly.net/)
+
 ***
 
 # 本人的博客
+   
+网站 : [AndroidPerformance.com](http://www.androidperformance.com/)     
+    
+知乎：[高爷-吾辈心中亦有惑](https://www.zhihu.com/people/gracker)
 
-1. 但行好事 莫问前程 -- GrackerTalk  
-   
-   网站 : [AndroidPerformance.com](http://www.AndroidPerformance.com)  
-   
-   Rss地址 : http://androidperformance.com/atom.xml
+微博：[高爷-互联网之子](https://weibo.com/gracker520)
+
+个人微信号：Gracker_Gao
+
+微信公众号：AndroidPerformance
 
 ***
-
-# 文件备份
-
-opml 文件文件夹里面存放的是rss的通用文件 opml ，你可以将这个备份文件直接导入你的RSS阅读器中即可。
-
-1. [Rss-IT-2015-12-1.opml](/opml/rss_it_2015_12_1.opml)
-
-2. [Rss-IT-2016-5-30.opml](/opml/rss_it_2016_5_30.opml)
-
 
