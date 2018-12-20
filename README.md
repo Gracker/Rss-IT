@@ -52,7 +52,7 @@
    
    Rss地址 : http://feeds.feedburner.com/StylingAndroid
    
-8. Trinea(Rss暂时不可用，待修复，网页可以正常访问)  
+8. Trinea
    
    网站 : [trinea.cn](http://www.trinea.cn)  
    
@@ -70,13 +70,13 @@
     
     Rss地址 : http://blog.csdn.net/luoshengyang/rss/list
     
-11. 代码家  
+11. 代码家 (目前无法访问)  
     
     网站 : [blog.daimajia.com](http://blog.daimajia.com/)  
     
     Rss地址 : http://blog.daimajia.com/feed/
-    
-12. fookwood  
+   
+12. fookwood (目前无法访问)    
     
     网站 : [fookwood.com](http://www.fookwood.com)  
     
@@ -118,7 +118,7 @@
     
     Rss地址 : http://blog.csdn.net/innost/rss/list
     
-19. StormZhang  
+19. StormZhang  (目前无法访问)    
     
     网站 : [stormzhang.com](http://stormzhang.com/)   
     
@@ -289,7 +289,7 @@
     
     RSS 地址: [http://blog.csdn.net/asce1885/rss/list](http://blog.csdn.net/asce1885/rss/list)
     
-48. Baoyz's Blog
+48. Baoyz's Blog (暂时不可用)
     
     网站: [www.baoyz.com/](http://www.baoyz.com/)
     
@@ -307,7 +307,7 @@
     
     RSS 地址: [http://blog.csdn.net/coder_pig/rss/list](http://blog.csdn.net/coder_pig/rss/list)  
    
-51. Drakeet的个人博客
+51. Drakeet的个人博客（暂时不可用）
     
     网站: [drakeet.me](http://drakeet.me)
     
@@ -319,11 +319,11 @@
     
     RSS 地址: [http://blog.csdn.net/qibin0506/rss/list](http://blog.csdn.net/qibin0506/rss/list)
     
-53. Lusfold （暂不可用）
+53. Lusfold
     
-    网站: [lusfold.com//](http://lusfold.com//)
+    网站: [lusfold.com//](http://lusfold.com/)
     
-    RSS 地址: [http://lusfold.com/atom.xml](http://lusfold.com/atom.xml)
+    RSS 地址: [http://lusfold.com/atom.xml](http://lusfold.com/atom.xml) （暂时不可用）
     
 54. Mobile Internet developer
     
@@ -357,7 +357,7 @@
     
     RSS 地址: [http://inthecheesefactory.com/blog/en/rss.xml](http://inthecheesefactory.com/blog/en/rss.xml)
     
-61. Veaer
+61. Veaer (暂时不可用)
     
     网站: [veaer.com/](http://veaer.com/)
     
@@ -419,7 +419,7 @@
 
     网站: [gityuan.com/](http://gityuan.com/)
     
-    RSS 地址: [http://www.feeyan.cn/?feed=rss2](http://www.feeyan.cn/?feed=rss2)
+    RSS 地址: [http://www.feeyan.cn/?feed=rss2](http://gityuan.com/feed.xml)
 
 71. Jlog
 
@@ -432,69 +432,79 @@
     网站: [weishu.me/](http://weishu.me/)
 
     RSS 地址: [http://weishu.me/atom.xml](http://weishu.me/atom.xml)
+    
 73. 秋水逸冰
-
-	  网站：[teddysun.com/](https://teddysun.com/)
-
-	  RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
+  
+    网站：[teddysun.com/](https://teddysun.com/)
+    
+    RSS地址：[https://teddysun.com/feed](https://teddysun.com/feed)
+    
 74. 吴钧泽博客
     
     网站：[wujunze.com](https://www.wujunze.com)
     
     RSS地址：[https://www.wujunze.com/feed](https://www.wujunze.com/feed)
 
-75. Xing的技术博客
+75. 任玉刚的技术博客
 
-    网站：[iluhcm.com/](http://iluhcm.com/)
-
-76. 任玉刚的技术博客
-
-    网站：[blog.csdn.net/singwhatiwanna](https://blog.csdn.net/singwhatiwanna)    
+    网站：[blog.csdn.net/singwhatiwanna](https://blog.csdn.net/singwhatiwanna)   
     
-77. kymjs张涛的技术博客   
+    RSS地址：https://blog.csdn.net/singwhatiwanna/rss/list
+    
+76. kymjs张涛的技术博客   
 
     网站：[kymjs.com/](https://kymjs.com/)
+    
+    RSS地址：https://kymjs.com/rss.xml
    
-78. gcssloop的技术博客   
+77. gcssloop的技术博客   
     
-    网站：[gcssloop.com/timeline](http://www.gcssloop.com/timeline)
+    网站：[gcssloop.com/timeline](http://www.gcssloop.com)
     
-79. Ailurus 的个人博客
+    RSS地址：http://www.gcssloop.com/feed.xml
     
-    网站：[easydone.cn/archives/](http://www.easydone.cn/archives/)
+78. Ailurus 的个人博客
     
-80. drakeet的个人站点
-
-    网站：[drakeet.me/](https://drakeet.me/)    
+    网站：[easydone.cn/archives/](http://www.easydone.cn/)
     
-81. Weishu的博客（understand-plugin-framework系列作者）    
+    RSS地址：http://www.easydone.cn/atom.xml
     
-    网站：[weishu.me/archives/](http://weishu.me/archives/)
+79. Weishu的博客（understand-plugin-framework系列作者）    
     
-82. Innost的CSDN专栏    
+    网站：[weishu.me/archives/](http://weishu.me/)
+    
+    RSS地址：http://weishu.me/atom.xml
+    
+80. Innost的CSDN专栏    
 
     网站：[blog.csdn.net/innost](https://blog.csdn.net/innost)
     
-83. 中二病也要开发 ANDROID
+    RSS地址：https://blog.csdn.net/innost/rss/list
+    
+81. 中二病也要开发 ANDROID
 
     网站：[kaedea.com/](http://kaedea.com/)
+    
+    RSS地址：http://kaedea.com/atom.xml
 
-84. tangpj的个人站点
+82. tangpj的个人站点
     
     网站：[tangpj.com/](http://tangpj.com/)
     
-85. yydcdut的个人博客
-
-    网站：[yydcdut.com/](http://yydcdut.com/)    
+    RSS地址：https://tangpj.com/atom.xml (暂时不可用)
     
-86. Uncle Chen的个人博客
+83. yydcdut的个人博客
+
+    网站：[yydcdut.com/](http://yydcdut.com/)   
+    
+    RSS地址：http://yydcdut.com/atom.xml
+    
+84. Uncle Chen的个人博客
 
     网站：[unclechen.github.io/](http://unclechen.github.io/) 
- 
-87. Gityuan (Keep on going never give up)    
-
-    网站：[http://gityuan.com/](http://gityuan.com/)
     
+    RSS地址：http://unclechen.github.io/atom.xml
+   
     
 ***
 
@@ -508,9 +518,9 @@
    
 2. 少数派 - 数字生活传道者  
    
-   网站 : [sspai.com](http://www.sspai.com)  
+   网站 : [sspai.com](https://www.sspai.com)  
    
-   Rss地址 : http://sspai.com/feed
+   Rss地址 : https://sspai.com/feed
    
 3. Linux中国  
    
@@ -526,7 +536,7 @@
    
    分享RSS ： http://linux.cn/rss-share.xml  
    
-4. 谷奥 :喜欢Google的必备。质量很高。  
+4. 谷奥 :喜欢Google的必备。质量很高。  （暂不可用）
    
    网站 : [guao.hk](http://www.guao.hk)  
    
@@ -547,6 +557,8 @@
 7. Android Weekly 中文版
 
     网站：[androidweekly.io/](https://androidweekly.io/)
+    
+    RSS 地址：https://androidweekly.io/rss/
 
 8. Android Weekly 英文版
 
