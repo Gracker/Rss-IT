@@ -76,11 +76,11 @@
 
     Rss地址 : <http://blog.daimajia.com/feed/>
 
-12. fookwood (目前无法访问)    
+12. fookwood
 
-    网站 : [fookwood.com](http://www.fookwood.com)  
+    网站 : [fookwood.com](https://fookwood.com)  
 
-    Rss地址 : www.fookwood.com/feeding
+    Rss地址 : <https://fookwood.com/feed>
 
 13. Android Notice  
 
