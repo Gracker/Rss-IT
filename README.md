@@ -1,8 +1,10 @@
 # Rss-IT人
 
-这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善!Mac客户端已经换成Reeder3了.感觉棒棒哒!  
+这个项目记录了个人订阅的一些科技人的 Blog 地址,欢迎大家推荐,一起来完善!Mac 客户端已经换成 Reeder3 了.感觉棒棒哒!  
 
-目前的数量还不多,希望大家能多推荐些,但是最好是那种质量比较高的Blog,每个人的时间都有限,把最好的时光浪费在美好的事物上.
+目前的数量还不多,希望大家能多推荐些,但是最好是那种质量比较高的 Blog,每个人的时间都有限,把最好的时光浪费在美好的事物上.
+
+另外[「置顶」Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)记录了 Android 开发相关的高质量文章，大家需要的自取
 
 ![Reeder3](/pic/Reeder3.png)
 
