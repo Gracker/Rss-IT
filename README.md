@@ -573,14 +573,19 @@
 
 # 本人的博客
 
-网站 : [AndroidPerformance.com](http://www.androidperformance.com/)\
-\
-知乎：[高爷-吾辈心中亦有惑](https://www.zhihu.com/people/gracker)
+网站 : [Android Tech And Perf](https://www.androidperformance.com/)
 
-微博：[高爷-互联网之子](https://weibo.com/gracker520)
+知乎：[高爷 - 吾辈心中亦有惑](https://www.zhihu.com/people/gracker)
+
+微博：[高爷](https://weibo.com/gracker520)
 
 个人微信号：Gracker_Gao
 
+![Gracker](/pic/gracker.jpg)
+
+
 微信公众号：AndroidPerformance
+
+![Gracker](/pic/AndroidPerformance.png)
 
 * * *
